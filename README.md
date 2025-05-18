@@ -2,7 +2,7 @@
 
 NeuroSpark is a modern, intelligent flashcard application that uses spaced repetition and adaptive learning to optimize your study experience. Built with React and TypeScript, it features an intuitive interface, powerful analytics, and smart learning algorithms.
 
-## 🚀 Features
+## Features
 
 ### Core Functionality
 - **Smart Spaced Repetition**: Uses the enhanced SM-2+ algorithm for optimal review scheduling
@@ -23,7 +23,7 @@ NeuroSpark is a modern, intelligent flashcard application that uses spaced repet
 - **Intuitive Interface**: Clean, modern UI with smooth transitions
 - **Keyboard Shortcuts**: Efficient card navigation and rating
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Frontend**: React 18, TypeScript, Tailwind CSS
 - **State Management**: React Context API
@@ -32,16 +32,16 @@ NeuroSpark is a modern, intelligent flashcard application that uses spaced repet
 - **Storage**: Local Storage with sync capabilities
 - **Build Tool**: Vite
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/neurospark.git
+   git clone https://github.com/MohammedAbdulRahman0704/NeuroSpark---Smart-Spaced-Repetition-Flashcard-Engine.git
    ```
 
 2. Install dependencies:
    ```bash
-   cd neurospark
+   cd NeuroSpark---Smart-Spaced-Repetition-Flashcard-Engine
    npm install
    ```
 
@@ -50,7 +50,7 @@ NeuroSpark is a modern, intelligent flashcard application that uses spaced repet
    npm run dev
    ```
 
-## 🎯 Usage
+## Usage
 
 ### Creating a Deck
 1. Click "Create Deck" in the sidebar
@@ -73,7 +73,7 @@ NeuroSpark is a modern, intelligent flashcard application that uses spaced repet
    - Due cards
    - Performance graphs
 
-## 🧠 Spaced Repetition Algorithm
+## Spaced Repetition Algorithm
 
 NeuroSpark uses an enhanced version of the SuperMemo 2 (SM-2) algorithm with the following improvements:
 
@@ -82,11 +82,11 @@ NeuroSpark uses an enhanced version of the SuperMemo 2 (SM-2) algorithm with the
 - Adaptive review intervals
 - Memory strength decay modeling
 
-## 🎨 Theme Customization
+## Theme Customization
 
 Toggle between light and dark themes using the theme switch in the top navigation bar. Your preference is automatically saved and persists between sessions.
 
-## 📱 Progressive Web App
+## Progressive Web App
 
 NeuroSpark is designed as a Progressive Web App (PWA), offering:
 - Offline functionality
@@ -94,7 +94,7 @@ NeuroSpark is designed as a Progressive Web App (PWA), offering:
 - Quick loading times
 - Local data persistence
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -104,11 +104,11 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - SuperMemo for the spaced repetition research
 - The React team for the excellent framework
@@ -123,12 +123,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Mobile apps
 - Integration with popular learning platforms
 
-## 📞 Support
+## Support
 
 For support, please:
 - Open an issue on GitHub
 - Join our Discord community
-- Email support@neurospark.app
+- Email abdul.rahman.190704@outlook.com
 
 ---
 
