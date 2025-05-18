@@ -84,7 +84,7 @@ NeuroSpark uses an enhanced version of the SuperMemo 2 (SM-2) algorithm with the
 
 ## Theme Customization
 
-Toggle between light and dark themes using the theme switch in the top navigation bar. Your preference is automatically saved and persists between sessions.
+Toggle between light and dark themes using the theme switch is in customization and will be corrected very soon.
 
 ## Progressive Web App
 
