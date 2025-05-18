@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The React team for the excellent framework
 - Our contributors and users for their feedback and support
 
-## 🔮 Future Plans
+## Future Plans
 
 - Collaborative study groups
 - AI-powered card suggestions
