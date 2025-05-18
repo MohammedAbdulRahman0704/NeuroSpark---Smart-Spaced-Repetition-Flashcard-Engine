@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support, please:
 - Open an issue on GitHub
 - Join our Discord community
-- Email abdul.rahman.190704@outlook.com
+- Email abdul.rahman.190704@gmail.com
 
 ---
 
